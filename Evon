@@ -52,7 +52,7 @@ function Load_CustomFunctions()
 end
 --[[ Settings ]]--
 
-local maxLines = 250;
+local maxLines = 9e9;
 
 --[[ Variables ]]--
 
