@@ -1,5 +1,5 @@
 
-_gethui().androidCheat:Destroy()
+gethui().androidCheat:Destroy()
 local Developer_Player = "271635429"
 local test_ModeAhax = false;
 
