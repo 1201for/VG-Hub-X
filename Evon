@@ -37,7 +37,7 @@ local function AuthenticateKey(serviceID, ClientKey, HardwareNo)
 end
 
 local function EvonCheckKey(ClientKey)
-    return
+    return true
 		------------------------------ Check Key -----------------------------------------
 end
 function Load_CustomFunctions()
